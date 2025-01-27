@@ -1,0 +1,18 @@
+
+To-Do List : ✅ ❌
+
+1 : responsive 
+2 : Animation
+3 : Button navigatation ✅
+4 : 404 page ✅
+5 : Contact me page ✅
+6 : Lock navbar ✅
+7 : Projects Link ✅        
+9 : Change Profile image ✅
+10 : Add about ✅
+11 : Game add instead of github ✅
+12 : Change background ✅
+13 : show skills flowing left / right ✅
+
+
+
