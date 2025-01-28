@@ -60,7 +60,7 @@ const GuessWordGame = ({ onClose }) => {
 
   // Redirect to resume
   const redirectToResume = () => {
-    window.open('/PratikShelar_Resume.pdf', '_blank')
+    window.open('/PRATIK_SHELAR_RESUME.pdf', '_blank')
   };
 
   // Reset the game
